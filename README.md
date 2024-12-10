@@ -37,4 +37,4 @@ Certifique-se de ter o Python 3.8 ou superior instalado em sua máquina.
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/albinoguip/PSADA
+   git clone https://github.com/LaboratorioLE16/PSADA
